@@ -73,12 +73,7 @@ Each agent has a **single responsibility**, and all communication is managed thr
 
 ## 📂 Project Structure
 
-├── data_loader.py # Builds documents and vector database
-├── user_history.py # User profiling and history extraction
-├── agents/ # Profile, RAG, and Trend agents
-├── tasks/ # Agent task definitions
-├── requirements.txt
-└── README.md
+<img width="627" height="232" alt="image" src="https://github.com/user-attachments/assets/68f93f2c-5ecd-421b-a472-5882dc74fb14" />
 
 
 
